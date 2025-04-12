@@ -1,6 +1,6 @@
-Despliegue de Sitio Web
+# Despliegue de Sitio Web
 
--Estructura del Proyecto:
+# Estructura del Proyecto:
   index.html: Página principal del sitio.
   style.css: Estilos del sitio.
   assets/: Carpeta con imágenes y otros recursos.
@@ -13,7 +13,7 @@ Despliegue de Sitio Web
   cd static-website
 2. Ingresé al directorio del proyecto:
   cd static-website
-3. Verifiqué los archivos con dir .
+3. Verifiqué los archivos con dir 
 4. Creé el archivo Dockerfile para empaquetar el sitio.
 5. Construí la imagen:
 docker build -t static-website:v1 .
