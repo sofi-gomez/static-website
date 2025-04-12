@@ -10,6 +10,7 @@ Despliegue de Sitio Web
   
 1. Cloné el repositorio desde GitHub con el comando:
   git clone https://github.com/Sofi-Gomez/static-website.git
+  cd static-website
 2. Ingresé al directorio del proyecto:
   cd static-website
 3. Verifiqué los archivos con dir .
