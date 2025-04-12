@@ -1,6 +1,6 @@
 # Despliegue de Sitio Web
 
-# Estructura del Proyecto:
+Estructura del Proyecto:
   index.html: Página principal del sitio.
   style.css: Estilos del sitio.
   assets/: Carpeta con imágenes y otros recursos.
